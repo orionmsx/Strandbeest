@@ -1,4 +1,4 @@
-# Electronics Strandbeests
+# Electronic Strandbeest
 
 <img src="wiki/frontal.png" />
 
