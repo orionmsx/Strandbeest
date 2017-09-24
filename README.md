@@ -1,5 +1,6 @@
 # Electronics Strandbeests
 
+<img src="wiki/frontal.png" />
 
 Código del proyecto. Para más detalles sobre la construcción, consultar [la Wiki](https://github.com/loreman/Strandbeest/wiki).
 
